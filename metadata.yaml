@@ -1,0 +1,32 @@
+_repo: Moslem-and-Frank-or-Charles-Martel-and-the-rescue-of-Europe-from-the-threatened-yoke-of-the-S__63390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strauss, G. L. M. (Gustave Louis Maurice)
+    aliases:
+    - Strauss, Gustave Louis Maurice
+    - Old Bohemian
+    deathdate: 1887
+    gutenberg_agent_id: '52417'
+    url: http://www.gutenberg.org/2009/agents/52417
+description: ''
+gutenberg_issued: '2020-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic sketches and tales; v. 1
+subjects:
+- !lcc 'DC'
+- !lcsh 'Charles Martel, approximately 688-741'
+- !lcsh 'Arab countries -- History'
+- !lcsh 'Arab countries -- Relations -- Europe'
+- !lcsh 'Europe -- Relations -- Arab countries'
+- !lcc 'DS'
+- GITenberg
+title: "Moslem and Frank;\r\nor, Charles Martel and the rescue of Europe from the\
+  \ threatened yoke of the Saracens"
+url: http://www.gutenberg.org/ebooks/63390
